@@ -31,7 +31,7 @@ O projeto utiliza o banco de dados `gestao_residuos`, composto pelas tabelas `us
 
 ## Diagrama de Classes
 
-![Diagrama de Classes](docs/diagrama_classes.drawio.png)
+![Diagrama de Classes](/diagrama_classes.drawio.png)
 
 ## Testes da API
 
